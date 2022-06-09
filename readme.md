@@ -1,3 +1,0 @@
-#git learn
-
-crash cours
